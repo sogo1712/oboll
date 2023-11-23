@@ -1,0 +1,14 @@
+
+cd charon-distributed-validator-node
+
+apt install snapd
+
+snap install docker
+
+apt install screen 
+
+screen -S charon
+
+docker-compose up
+
+ctrl+a+d
