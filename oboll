@@ -9,6 +9,4 @@ apt install screen
 
 screen -S charon
 
-docker-compose up
-
-ctrl+a+d
+docker-compose 
